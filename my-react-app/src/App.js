@@ -6,7 +6,7 @@ import ControlledCarousel from './components/ControlledCarousel';
 function App() {
   return (
     <div className="App">
-      <h1>Review Inbox</h1>
+      <h1>Review inbox</h1>
       <ControlledCarousel />
     </div>
   );
